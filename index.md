@@ -1,4 +1,4 @@
-此系列文章是个人对JAVA8的新特性的理解与应用，欢迎大家一起交流
+#此系列文章是个人对JAVA8的新特性的理解与应用，欢迎大家一起交流
 ### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
